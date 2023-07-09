@@ -7,3 +7,11 @@ body {
 .background{
     background: url(../resources/images/bruno-guerrero-unsplash.jpg);
 }
+
+#main-content{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
